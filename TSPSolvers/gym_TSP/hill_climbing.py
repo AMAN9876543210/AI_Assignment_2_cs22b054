@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -----------------------------------------------------------------------------
-# Modified by Jane Smith on 2025-04-05
+# Written by Aman Anand on 2025-04-05
 # This code implements a hill-climbing approach to the Traveling Salesman Problem (TSP).
 # -----------------------------------------------------------------------------
 
