@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -----------------------------------------------------------------------------
-# Refactored by Jane Smith on 2025-04-05
+# written by aman anand on 2025-04-05
 # This script uses a Branch and Bound approach to solve the Frozen Lake environment
 # and creates an animation (GIF) of the solution path.
 # -----------------------------------------------------------------------------
