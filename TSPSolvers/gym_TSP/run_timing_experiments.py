@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -----------------------------------------------------------------------------
-# Refactored by Jane Smith on 2025-04-05
+# Written by Aman Anand on 2025-04-05
 # This script executes TSP optimization scripts and logs their performance metrics.
 # -----------------------------------------------------------------------------
 
