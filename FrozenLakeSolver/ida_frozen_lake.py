@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -----------------------------------------------------------------------------
-# Refactored by Jane Smith on 2025-04-05
+# written by Aman Anand on 2025-04-05
 # This script applies the Iterative Deepening A* (IDA*) algorithm to solve the
 # Frozen Lake environment and creates a GIF to visualize the solution path.
 # -----------------------------------------------------------------------------
