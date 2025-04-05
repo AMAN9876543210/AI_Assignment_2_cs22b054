@@ -168,11 +168,11 @@ python3 run_timing_experiments.py  # Outputs: results_summary.csv and route GIFs
 ---
 ## 📽️ Presentation
 
-- [Google Slides Link](https://www.notion.so/AI_Assignment_2-1cc18fc7a5aa806fa344e02a721d6f65?pvs=13)
+- [Slides Link](https://www.notion.so/AI_Assignment_2-1cc18fc7a5aa806fa344e02a721d6f65?pvs=13)
 
 ## 🔗 GitHub Repository
 
-[👉 Click to Visit Repository](https://github.com/AMAN9876543210/AI_Assignment_2_cs22b054/)
+[👉 AI_ Repo_Link ](https://github.com/AMAN9876543210/AI_Assignment_2_cs22b054/)
 
 ---
 
