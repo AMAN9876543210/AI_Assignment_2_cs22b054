@@ -1,0 +1,80 @@
+
+Running experiment 1/5...
+
+=== Output from bnb_frozen_lake.py ===
+Best Path: [0, 1, 2, 6, 10, 14, 15]
+Best Cost: 6
+Execution Time: 0.000122 seconds
+✅ GIF saved as bnb_frozen_lake.gif
+=============================
+
+=== Output from ida_frozen_lake.py ===
+Best Path: [0, 4, 8, 9, 13, 14, 15]
+Best Cost: 6
+Execution Time: 0.000085 seconds
+✅ GIF saved as ida_frozen_lake.gif
+=============================
+
+Running experiment 2/5...
+
+=== Output from bnb_frozen_lake.py ===
+Best Path: [0, 1, 2, 6, 10, 14, 15]
+Best Cost: 6
+Execution Time: 0.000116 seconds
+✅ GIF saved as bnb_frozen_lake.gif
+=============================
+
+=== Output from ida_frozen_lake.py ===
+Best Path: [0, 4, 8, 9, 13, 14, 15]
+Best Cost: 6
+Execution Time: 0.000089 seconds
+✅ GIF saved as ida_frozen_lake.gif
+=============================
+
+Running experiment 3/5...
+
+=== Output from bnb_frozen_lake.py ===
+Best Path: [0, 1, 2, 6, 10, 14, 15]
+Best Cost: 6
+Execution Time: 0.000121 seconds
+✅ GIF saved as bnb_frozen_lake.gif
+=============================
+
+=== Output from ida_frozen_lake.py ===
+Best Path: [0, 4, 8, 9, 13, 14, 15]
+Best Cost: 6
+Execution Time: 0.000132 seconds
+✅ GIF saved as ida_frozen_lake.gif
+=============================
+
+Running experiment 4/5...
+
+=== Output from bnb_frozen_lake.py ===
+Best Path: [0, 1, 2, 6, 10, 14, 15]
+Best Cost: 6
+Execution Time: 0.000149 seconds
+✅ GIF saved as bnb_frozen_lake.gif
+=============================
+
+=== Output from ida_frozen_lake.py ===
+Best Path: [0, 4, 8, 9, 13, 14, 15]
+Best Cost: 6
+Execution Time: 0.000084 seconds
+✅ GIF saved as ida_frozen_lake.gif
+=============================
+
+Running experiment 5/5...
+
+=== Output from bnb_frozen_lake.py ===
+Best Path: [0, 1, 2, 6, 10, 14, 15]
+Best Cost: 6
+Execution Time: 0.000126 seconds
+✅ GIF saved as bnb_frozen_lake.gif
+=============================
+
+=== Output from ida_frozen_lake.py ===
+Best Path: [0, 4, 8, 9, 13, 14, 15]
+Best Cost: 6
+Execution Time: 0.000086 seconds
+✅ GIF saved as ida_frozen_lake.gif
+=============================

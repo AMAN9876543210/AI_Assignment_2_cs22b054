@@ -1,0 +1,6 @@
+Iteration,hill_climbing.py - Best Distance,hill_climbing.py - Time,hill_climbing.py - Convergence Point,hill_climbing.py - Reward,hill_climbing.py - Execution Time,simulated_annealing.py - Best Distance,simulated_annealing.py - Time,simulated_annealing.py - Convergence Point,simulated_annealing.py - Reward,simulated_annealing.py - Execution Time
+1,N/A,N/A,N/A,-3128,185.6685197353363,N/A,12.88,N/A,-3570,14.932714939117432
+2,N/A,N/A,N/A,-3166,194.31104040145874,N/A,12.87,N/A,-3578,15.004196405410767
+3,N/A,N/A,N/A,-3117,193.3493137359619,N/A,12.93,N/A,-3454,15.222070217132568
+4,N/A,N/A,N/A,-3055,190.27902913093567,N/A,12.69,N/A,-3631,14.900166988372803
+5,N/A,N/A,N/A,-3166,202.2944643497467,N/A,12.81,N/A,-3473,14.903895854949951
