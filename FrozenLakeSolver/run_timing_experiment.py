@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -----------------------------------------------------------------------------
-# Refactored by Jane Smith on 2025-04-05
+# Written by aman anand on 2025-04-05
 # This script runs Frozen Lake solver experiments (BnB and IDA*) multiple times,
 # logs the outputs, and saves the execution times into a CSV file.
 # -----------------------------------------------------------------------------
