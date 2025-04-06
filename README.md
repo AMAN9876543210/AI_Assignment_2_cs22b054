@@ -4,9 +4,9 @@
 [![Gym](https://img.shields.io/badge/OpenAI-Gym-ff69b4?logo=openai)](https://www.gymlibrary.dev/)
 
 
-> **Course**: AI
-> **Student**: Aman Anand (CS22B054)  
-> **Institute**: IIT Tirupati  
+**Course**: Artificial Intelligence  
+**Student**: Aman Anand (CS22B054)  
+**Institute**: Indian Institute of Technology Tirupati
 
 
 ---
