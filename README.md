@@ -1,7 +1,7 @@
 # 🧠 AI Assignment 2: Search Algorithms & Optimization Techniques
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
-[![Gym](https://img.shields.io/badge/OpenAI-Gym-ff69b4?logo=openai)](https://www.gymlibrary.dev/)
+
 
 
 **Course**: Artificial Intelligence  
