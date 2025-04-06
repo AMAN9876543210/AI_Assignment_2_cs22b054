@@ -4,7 +4,7 @@
 [![Gym](https://img.shields.io/badge/OpenAI-Gym-ff69b4?logo=openai)](https://www.gymlibrary.dev/)
 
 
-> **Course**: Design and Analysis of Algorithms  
+> **Course**: AI
 > **Student**: Aman Anand (CS22B054)  
 > **Institute**: IIT Tirupati  
 
